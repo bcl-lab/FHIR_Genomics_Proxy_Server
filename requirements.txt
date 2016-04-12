@@ -1,0 +1,4 @@
+flask
+flask-debugtoolbar
+requests
+xmltodict
